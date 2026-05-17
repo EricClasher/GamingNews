@@ -20,10 +20,6 @@ To get started with this project, clone the repository and follow the setup inst
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-## License
-
-Please see the LICENSE file for licensing information.
-
 ## Contact
 
 For more information, feel free to reach out to the project maintainers.
